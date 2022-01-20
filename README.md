@@ -16,5 +16,5 @@ Determine a binary edge image by high pass filtering a gray level image and perf
 * imclose: performs morphological closing of an image 
 * imopen: performs morphological opening of an image
 * maskgen: generates a 2-D mask suitable for frequency domain filtering
-* logscale2bytes: scales (in log scale) the intensity of a 2-D function appropriately and generates an 8-bit digital image
+* logscale2bytes: scales the intensity of a 2-D function appropriately and generates an 8-bit digital image
 * spec_est: estimates the power spectrum of an image by averaging 2-D DFT of smaller image blocks
